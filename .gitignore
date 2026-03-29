@@ -1,0 +1,20 @@
+# Environments
+venv/
+env/
+__pycache__/
+
+# Logs and Data
+logs/
+attendance_log.csv
+
+# Large Binary Files
+*.whl
+*.mp4
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Secrets and Passwords
+.env
